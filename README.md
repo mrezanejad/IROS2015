@@ -1,7 +1,7 @@
 # Robust Environment Mapping Using Flux Skeletons
 
 <p align = "center">
-<img src='iros_image1.JPG' width=40%/> <img src='iros_image2.JPG' width=40%/> </p>
+<img src='iros_image1.JPG' width=45%/> <img src='iros_image2.JPG' width=40%/> </p>
 
 
 
