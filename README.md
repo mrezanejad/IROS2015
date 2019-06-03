@@ -8,7 +8,7 @@
 
 ## Updating
 Assuming you have not made any local changes to these files, you can update your local code to the newest version with [git pull](https://git-scm.com/docs/git-pull).
-Open a terminal, navigate to your `SalienceScoresForScene/` folder, and run
+Open a terminal, navigate to your `IROS2015/` folder, and run
 ```
 git pull
 ```
