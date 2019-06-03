@@ -1,6 +1,6 @@
 # Robust Environment Mapping Using Flux Skeletons
 
-<img src='readme_images/iros_image.jpg' width=100%/> 
+<img src='iros_image.JPG' width=100%/> 
 
 
 
