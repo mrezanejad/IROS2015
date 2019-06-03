@@ -25,7 +25,7 @@ If you are new to git, you can learn more about it [here](https://git-scm.com/do
 <br>
 
 ## References
-If you use the our SalienceScoresForScenes package, we appreciate it if you cite the following papers:
+If you use the our IROS2015 package, we appreciate it if you cite the following papers:
 
 ```
 @inproceedings{rezanejad2015robust,
