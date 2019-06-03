@@ -1,13 +1,14 @@
 # Robust Environment Mapping Using Flux Skeletons
 
-<img src='iros_image.JPG' width=100%/> 
+<p align = "center">
+<img src='iros_image1.JPG' width=40%/> <img src='iros_image2.JPG' width=40%/> </p>
 
 
 
 
 ## Updating
 Assuming you have not made any local changes to these files, you can update your local code to the newest version with [git pull](https://git-scm.com/docs/git-pull).
-Open a terminal, navigate to your `SalienceScoresForScene/` folder, and run
+Open a terminal, navigate to your `IROS2015/` folder, and run
 ```
 git pull
 ```
@@ -24,7 +25,7 @@ If you are new to git, you can learn more about it [here](https://git-scm.com/do
 <br>
 
 ## References
-If you use the our SalienceScoresForScenes package, we appreciate it if you cite the following papers:
+If you use the our IROS2015 package, we appreciate it if you cite the following papers:
 
 ```
 @inproceedings{rezanejad2015robust,
